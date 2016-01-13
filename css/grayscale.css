@@ -278,11 +278,6 @@ a:focus {
     -o-background-size: cover;
 }
 
-.myphoto{
-    float: left;
-
-}
-
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
